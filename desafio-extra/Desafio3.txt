@@ -1,0 +1,14 @@
+CREATE TABLE PRODUTO (
+	id_produto INT PRIMARY KEY,
+	nome VARCHAR(100),
+	valor DECIMAL(10,2),
+	quantidade INT
+);
+
+INSERT INTO PRODUTO (id_produto, nome, valor, quantidade) VALUES (1,'TV Smart', 3599.00, 2);
+
+INSERT INTO PRODUTO (id_produto, nome, valor, quantidade) VALUES (2, 'Notebook nitro 5', 4899.99, 3);
+
+SELECT * FROM PRODUTO;
+
+explicação: Criei a tabela produto com campos para informações de produtos, utilizei id_produto como chave primaria para identificação unica, varchar para texto, decimal para preco e int para quantidades. inseri dois produtos e fiz a consulta de todos os registros da tabela PRODUTO.
