@@ -1,0 +1,3 @@
+O que é chave primária (PK)?
+
+2. Campo que identifica um registro de forma única

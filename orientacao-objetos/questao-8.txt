@@ -1,0 +1,3 @@
+Qual conceito protege atributos de acesso indevido?
+
+2. Encapsulamento

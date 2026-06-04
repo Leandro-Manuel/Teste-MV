@@ -1,0 +1,3 @@
+Qual estrutura armazena vários valores do mesmo tipo?
+
+1. Array/Lista

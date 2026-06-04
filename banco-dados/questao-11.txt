@@ -1,0 +1,3 @@
+Qual comando insere dados em uma tabela?
+
+3. INSERT

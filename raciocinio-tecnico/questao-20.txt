@@ -1,0 +1,3 @@
+Quando utilizar orientação a objetos?
+
+3. Para modelar entidades e responsabilidades

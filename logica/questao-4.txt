@@ -1,0 +1,7 @@
+o que este algoritmo faz?
+
+Recebe uma lista de números
+Soma todos os números
+Divide pela quantidade
+
+3. Calcula média

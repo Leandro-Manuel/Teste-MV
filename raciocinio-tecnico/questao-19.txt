@@ -1,0 +1,3 @@
+Qual alternativa demonstra melhor prática?
+
+3. Métodos organizados e reutilizáveis

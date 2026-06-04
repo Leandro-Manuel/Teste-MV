@@ -1,0 +1,3 @@
+Em qual forma normal eliminamos dependências parciais?
+
+2. 2FN

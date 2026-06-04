@@ -1,0 +1,3 @@
+Qual objetivo da normalização?
+
+3. Organizar dados e evitar redundância

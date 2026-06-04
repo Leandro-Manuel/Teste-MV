@@ -1,0 +1,3 @@
+O que é herança?
+
+3. Uma classe reutilizar características de outra

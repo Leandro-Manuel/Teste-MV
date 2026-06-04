@@ -1,0 +1,3 @@
+Qual alternativa representa polimorfismo?
+
+2. Um método ter comportamentos diferentes

@@ -1,0 +1,3 @@
+qual operador representa "E lógico"?
+
+3. &&

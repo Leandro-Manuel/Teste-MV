@@ -1,0 +1,3 @@
+O que é chave estrangeira (FK)?
+
+1. Campo que conecta tabelas

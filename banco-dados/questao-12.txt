@@ -1,0 +1,3 @@
+Qual comando consulta dados?
+
+1. SELECT

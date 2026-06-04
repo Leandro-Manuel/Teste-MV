@@ -1,0 +1,6 @@
+Qual será a saída do código abaixo?
+int x = 5;
+int y = 2;
+System.out.println(x + y * 2);
+
+Resposta: 9

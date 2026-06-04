@@ -1,0 +1,5 @@
+Qual SQL lista todos os dados da tabela PACIENTE?
+
+SELECT * FROM PACIENTE
+
+1. Correto

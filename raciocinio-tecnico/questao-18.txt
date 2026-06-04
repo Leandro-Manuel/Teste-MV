@@ -1,0 +1,3 @@
+O que acontece se um loop não possuir condição de parada?
+
+3. Pode entrar em loop infinito

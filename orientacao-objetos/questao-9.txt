@@ -1,0 +1,3 @@
+Um objeto é:
+
+3. Uma instância de classe
